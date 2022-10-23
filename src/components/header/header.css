@@ -1,6 +1,6 @@
 header {
   height: 100vh;
-  padding-top: 7rem;
+  margin-top: 7rem;
 }
 
 .header__container {
@@ -62,7 +62,7 @@ header {
 /* Media query for tablets */
 @media screen and (max-width: 1024px) {
   header {
-    height: 60vh;
+    height: 100vh; /* was set to 60vh don't know why*/
   }
 }
 
