@@ -12,6 +12,7 @@
 
 :root {
   --color-bg: #1f1f38;
+  /* --color-bg: #25316D; plan to change it to this */
   --color-bg-variant: #2c2c6c;
   --color-primary: #4db5ff;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
@@ -38,7 +39,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url("./assets/bg-texture.png");
+  /* background-image: url("./assets/bg-texture.png"); */
 }
 
 /* ========= GENERAL STYLES ========== */
@@ -62,7 +63,7 @@ h1 {
 
 section {
   margin-top: 8rem;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 section > h2,
@@ -125,7 +126,7 @@ img {
 
   section {
     margin-top: 6rem;
-    height: 100vh;
+    /* height: 100vh; */
   }
 }
 

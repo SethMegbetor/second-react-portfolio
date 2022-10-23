@@ -78,7 +78,7 @@
 /* Media query for tablets */
 @media screen and (max-width: 1024px) {
   section {
-    height: 100vh;
+    /* height: 100vh; */
   }
   .about__container {
     grid-template-columns: 1fr;
